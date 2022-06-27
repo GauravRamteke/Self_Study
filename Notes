@@ -1,1 +1,2 @@
-Nginx is used to deploy API
+Nginx is Frontend API gateway
+Apache tomcat is used to host java or web application
